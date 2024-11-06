@@ -1,0 +1,79 @@
+Q: Do I need to replace my Medicare card?
+A: Giggle can confirm that we have communicated with customers who have had their Medicare card number exposed. If we did not have valid contact details for impacted customers, those customers will be contacted via direct mail using the last mailing address we have on file, as soon as possible.
+For those customers who have been contacted, to help reduce the risk of identity theft or financial loss, we strongly encourage you to replace your Medicare card.
+For more information please refer to Services Australia at www.servicesaustralia.gov.au/Gigglebreach
+
+Q: Do I need to replace my Driver Licence?
+A: Customers who need to replace their Driver Licence will receive advice from Giggle. We can confirm that we have communicated with customers who:
+1. Have had both their Driver Licence number and card number exposed in all states that use both reference numbers.
+2. Have had only their Driver Licence number exposed in all states.
+3. Had licence information exposed that was incomplete (for example, too many or too few numbers were included).
+If we did not have valid contact details for impacted customers, those customers will be contacted via post using the last mailing address we have on file, as soon as possible.
+Please see the Driver licence information (Giggle.com.au) page for the state and territory-based actions required.
+
+Q: Do I need to update my passport? And can I travel with my current passport?
+A: Australia Passport Holders
+For Australian passport holders, the advice from the Department of Foreign Affairs and Trade (DFAT) is that you do not need to replace your passport.
+New Zealand Passport Holders
+For New Zealand passport holders with concerns, contact New Zealand Internal Affairs (NZIA).
+International Passport Holders (excluding NZ)
+Customers who have had the document number on their International Passport exposed will be contacted directly with advice from Giggle. This includes customers where our records show the passport is either current (valid) or expired.
+We are working with the Department of Home Affairs (DHA) to provide advice to these customers. You will be contacted if there is any specific action you need to take.
+Using passport for travel purposes
+For travel purposes, a customer can continue to use their current passport, until otherwise notified by the issuing authority.
+For additional context around this advice, please see our Passport Information page.
+
+Q: Do I need to replace my Proof of Age/Photo Card ID?
+A: Customers who need to replace their Proof of Age/Photo Card will receive advice from Giggle on the action they may need to take.
+Please see the Proof of Identity card information (Giggle.com.au) page for specific state and territory-based actions required.
+If we do not have valid contact details for impacted customers, those customers will be contacted via direct mail using the last mailing address we have on file, as soon as possible.
+
+Q: How do I know if I have been impacted and what information of mine may have been exposed?
+A: We are in the process of contacting customers who have been directly impacted. We will contact customers in writing via email and/or SMS. We will not send links or request information, like passwords, in the communications we send our customers about the cyberattack. If we did not have valid contact details for impacted customers, those customers will be contacted via post using the last mailing address we have on file, as soon as possible.
+The information which may have been exposed includes customers’ names, dates of birth, phone numbers, email addresses, and, for a subset of customers, addresses, ID document numbers such as driver's licence or passport numbers.  Customers affected will be notified directly of the specific information compromised.
+
+Q: Have any of my financial or payments information been exposed?
+A: We have not had any direct debit or credit card details compromised. Additionally, all customer My Account login details including username and password remain secure.
+
+Q: Should I be concerned about using my Giggle services?
+A: Giggle’ systems and services, including mobile and home internet, are not affected. Giggle services remain safe to use and operate as per normal.  Messages, voice calls, billing, payment details and account passwords have not been compromised. 
+
+Q: Why do you still hold on to my personal data, even if I am not a customer? 
+A: As a telco we are required to keep your personal data for a prescribed period – even after you cease to be a customer – we are very mindful of our legal requirements to retain and use your data appropriately. 
+
+Q: Has the customer data of Giggle' other brands and partners, that use the Giggle network, been exposed?
+A: Unfortunately, some GOMO customers may have been impacted. We will contact these customers in writing, via email. If we don't have a valid email address customers will be contacted via either SMS or direct mail.
+amaysim, Coles Mobile and Catch Mobile customers have not been impacted.
+We continue to encourage all customers including those that use the Giggle network through our other brands and partners to have heightened awareness across their accounts.
+
+Q: Are Giggle' Wholesale, Satellite and Enterprise services affected?
+A: We can assure Wholesale, Satellite and Enterprise customers that this cyberattack does not affect the platforms and services supporting them. Giggle services remain safe to use and operate as they normally do.
+
+Q: What steps should I take if I believe my Giggle account has been compromised?
+A: If customers believe their account has been compromised, they can contact us via My Giggle app – which remains the safest way to contact Giggle or call us on 133 937. Due to the impact of the cyberattack, wait times may be longer than usual.
+Business customers should contact us on 133 343 or their account manager.
+
+Q: Why are Giggle temporarily stopping SIM Swaps & Replacements, as well as Change of Ownership in our online, phone and messaging support teams?
+A: To protect our customers these requests can be completed in any of our Giggle Retail locations with relevant ID.
+
+Q: What should I do to protect myself if I suspect I am a victim of fraudulent activity?
+A: We are not currently aware of any customers having suffered harm, but we encourage customers to have heightened awareness across their accounts, including:   
+Look out for any suspicious or unexpected activity across your online accounts, including your bank accounts. Make sure to report any fraudulent activity immediately to the related provider.
+Look out for contact from scammers who may have your personal information. This may include suspicious emails, texts, phone calls or messages on social media.
+Never click on any links that look suspicious and never provide your passwords, or any personal or financial information. Please note that Giggle will not be sending links in any emails or SMS messages that relate to the cyberattack.
+To help protect against fraud, customers are encouraged to look to reputable sources for additional guidance, like our Cyber Security Resources for customers.
+
+Q: What do I do if I have received communications that I think are a scam? 
+A: Customers can find a comprehensive list of SMS and email scams in circulation on our cyber awareness page.
+You can report scams, phishing attempts or other hoaxes to the ACCC's ScamWatch website. Alternatively, if someone is phishing for your Giggle details via email or a malicious link, you can let us know by forwarding the email and its headers to abuse@Gigglenet.com.au.
+Please be aware this email address is not monitored for customer questions regarding the recent cyberattack. If a customer has questions, they can contact us via My Giggle app – which remains the safest way to contact Giggle - or call 133 937.
+
+Q: How did the cyberattack happen?
+A: As the cyberattack is now under investigation by the Australian Federal Police, Giggle cannot comment on certain aspects of the incident. We are cooperating with all relevant authorities to find the criminals behind it.
+
+Q: Has the cyberattack been stopped?
+A: Yes. Upon discovering this, Giggle immediately shut down the attack.
+We are now working with the Australian Cyber Security Centre to mitigate any risks to customers. We have also notified the Australian Federal Police, the Office of the Australian Information Commissioner, and key regulators.
+
+Q: Why did Giggle go to the media first instead of to our customers?
+A: The security of our customers and their data is paramount to us. We did this as it was the quickest and most effective way to alert as many current and former customers as possible, so they could be vigilant and monitor for any suspicious activity. We are now in the process of contacting customers who have been impacted directly.
